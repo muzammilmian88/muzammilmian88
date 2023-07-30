@@ -2,7 +2,7 @@
 
 About Me:
 
-I've always been fascinated by the boundless potential of the internet and the ability to bring ideas to life through coding. With [X] years of experience in web development, I've honed my skills across a diverse range of technologies, ensuring that I stay up-to-date with the latest trends and best practices in the ever-evolving digital landscape.
+I've always been fascinated by the boundless potential of the internet and the ability to bring ideas to life through coding. With 3 years of experience in web development, I've honed my skills across a diverse range of technologies, ensuring that I stay up-to-date with the latest trends and best practices in the ever-evolving digital landscape.
 
 What I Do:
 
